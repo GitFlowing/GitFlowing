@@ -5,5 +5,5 @@ I am Flo!
 I will use GitHub for my future projects and I am very curious to
 learn more about it
 
-> In the core of every beginning lives magic
+> For each beginning bears a special magic
 > - Hermann Hesse
