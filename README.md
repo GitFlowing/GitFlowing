@@ -9,4 +9,4 @@ A mathematician/physicist with a passion for data science 📊. I like model bui
 > For each beginning bears a special magic
 > - Hermann Hesse, Steps
 
-<img src="wallpaper-8745805_1920.jpg" alt="Bild" style="width:100%;">
+<img src="stairs-3215562_1280.jpg" alt="Bild" style="width:100%;">
