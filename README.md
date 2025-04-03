@@ -1,6 +1,7 @@
-# Hello World !
+# Hi I am Flo!
+---
+## Welcome to my GitHub Profile
 
-I am Flo!
 
 I will use GitHub for my future projects and I am very curious to
 learn more about it
