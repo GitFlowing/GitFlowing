@@ -1,4 +1,4 @@
-![Bild](wallpaper-8745805_1920.jpg)
+<img src="wallpaper-8745805_1920.jpg" alt="Bild" style="width:50%;">
 
 # Hi I am Flo!
 
